@@ -1,2 +1,2 @@
 # SnakeGameJava
-Snake Game with Java swing
+1. Added a simple Snake Game with Java swing
